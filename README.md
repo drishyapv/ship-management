@@ -9,7 +9,7 @@ A brief description of what this project does
 
 - [@faiha](https://github.com/faihaaa)
 - [@drishya](https://github.com/drishyapv)
-- [@fredy](https://github.com/drishyapv)
+- [@fredy](https://github.com/fredy)
 
 
 ## Installation
